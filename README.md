@@ -15,7 +15,7 @@ A minimal passphrase generator that uses the [EFF Short Word List](https://www.e
 
 ## 🌐 Live Demo
 
-➡️ [Try it here](https://calibur.github.io/Passphrase-Generator/)
+➡️ [Try it here](https://phrase.it.com)
 
 ## 📝 License
 This project is licensed under the MIT License.
